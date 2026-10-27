@@ -5,7 +5,7 @@ from urllib.parse import quote
 
 # WhatsApp number that should receive the message
 # Include country code, without + or spaces.
-WHATSAPP_RECEIVER = "91XXXXXXXXXX"
+WHATSAPP_RECEIVER = "919440882425"
 
 st.title("Booking Form")
 
